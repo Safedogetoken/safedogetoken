@@ -1,4 +1,4 @@
-### Hi there 👋
+SafeDoge is a next-gen cryptocurrency that combines auto-liquidity, frictionless yield, community NFT and token burn. Safe Doge cannot be scammed : the ownership of the contract was transferred to the burn address and the Liquidity is locked forever and growing in pancakeswap
 
 <!--
 **Safedogetoken/safedogetoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
